@@ -1,7 +1,5 @@
----
-title: Introducción
-sidebar_position: 1
----
+# Laboratorio 4: Resumen teórico
+
 ## Bibliografía
 Louden 4.2, 3.2. Ullman 4.2.1. Apuntes de la teórica.
 
